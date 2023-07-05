@@ -1,10 +1,14 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 💻 Projeto Mysql-one-for-all
+Nessa aplicação foi normalizada e populada uma tabela, e em seguida executada várias queries com o intuito de encontrar as informações solicitadas.
+
+## 📌 Habilidades
+- Normalizar tabelas
+- Criar bando de dados
+- Criar tabelas
+- Criar colunas
+- Inserir valores em tabelas
+- Filtrar e manipular dados
+
+### ⬇️ Instalação
+cd src/ </br>
+npm install
